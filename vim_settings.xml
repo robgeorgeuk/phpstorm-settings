@@ -1,0 +1,101 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/fusion/resources/views/suppliers/partials/form.blade.php" timestamp="1441191772837">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/resources/views/jobs/create.blade.php" timestamp="1441531178747">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/app/Quote.php" timestamp="1441532221400">
+        <mark key="[" line="234" column="34" />
+        <mark key="]" line="234" column="16" />
+        <mark key="^" line="234" column="16" />
+        <mark key="." line="234" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/app/Http/Controllers/QuoteController.php" timestamp="1441532178109">
+        <mark key="'" line="71" column="20" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="106" column="35" />
+        <mark key="^" line="106" column="35" />
+        <mark key="." line="106" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/app/Helpers/mutatorHelper.php" timestamp="1441188051466">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/resources/views/contacts/create.blade.php" timestamp="1441531439943">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/fusion/database/migrations/2015_09_02_104117_add_extra_supplier_fields_to_suppliers_table.php" timestamp="1441191053275">
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="94" filename="$USER_HOME$/Code/fusion/app/Http/Controllers/QuoteController.php" />
+      <jump line="71" column="20" filename="$USER_HOME$/Code/fusion/app/Http/Controllers/QuoteController.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2V0dGluZzo6d2hlcmVUeXBlKHN0YXRpYzo6Y2xhc3MpLT5saXN0cygndmFsdWUnLCAnbmFtZScpLT5hbGwoKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2V0dGluZzo6d2hlcmVUeXBlKHN0YXRpYzo6Y2xhc3MpLT5saXN0cygndmFsdWUnLCAnbmFtZScpLT5hbGwoKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>settings</text>
+      </register>
+      <register name="3" type="4">
+        <text>/</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>aram</text>
+      </register>
+      <register name="7" type="4">
+        <text>@</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>r</text>
+      </register>
+      <register name="-" type="4">
+        <text>settings</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
