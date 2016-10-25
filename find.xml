@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/Rob/Code/forth-fetch/app/Http/Controllers/FetchController.php'" />
     <option name="defaultScopeName" value="File '/Users/Rob/Code/forth-fetch/app/Http/Controllers/FetchController.php'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/Rob/Code/forth-fetch/app/Http/Controllers/FetchController.php'" />
   </component>
 </application>
