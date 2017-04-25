@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../wp-content/plugins/ispn_side_menu/ispn_side_menu.php - [ispn]'" />
+    <option name="defaultScopeName" value="File '.../wp-content/plugins/ispn_side_menu/ispn_side_menu.php - [ispn]'" />
+    <option name="SEARCH_SCOPE" value="File '.../wp-content/plugins/ispn_side_menu/ispn_side_menu.php - [ispn]'" />
   </component>
 </application>
