@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4efc9397-a3b0-4dfd-bd16-f06576db0e98" name="Las Iguanas - GDPR" url="http://192.168.10.53/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
