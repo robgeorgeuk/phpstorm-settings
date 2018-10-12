@@ -7,12 +7,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php/7.2.8/bin/php" id="3ed4e9cf-1193-4820-b388-787cd87d7f88" name="PHP 7.0.11" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php/7.2.8/bin/php" id="3ed4e9cf-1193-4820-b388-787cd87d7f88" name="PHP 7.2.8" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.0.11">
+      <interpreter name="PHP 7.2.8">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.8/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.8/bin/php" path_separator=":" version="7.2.8">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
